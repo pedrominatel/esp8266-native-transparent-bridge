@@ -69,14 +69,8 @@ void user_init(void) {
 #else
   system_set_os_print(OFF);
 #endif
-
-  // Print a message that we are starting user_init on debug uart
-  wifi_station_disconnect();
-  wifi_softap_set_config()
-
   // Setup the wifi
   //wifiInit();
-
   // Print a message that we have completed user_init on debug uart
   //os_printf("Ready...\n");
 }
