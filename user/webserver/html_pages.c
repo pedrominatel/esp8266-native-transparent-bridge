@@ -22,3 +22,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
+/* usart_init
+ *
+ * */
+void usart_init (){
+
+}
