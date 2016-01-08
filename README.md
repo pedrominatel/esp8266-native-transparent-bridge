@@ -1,3 +1,6 @@
-# esp8266-native-transparent-bridge
+# TCP to serial transparent bridge using ESP8266
 
-ESP8266 Native Transparent Bridge
+
+## This is a on going project using the ESP8266. Not working yet!
+
+** Features
